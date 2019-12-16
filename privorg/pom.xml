@@ -161,7 +161,7 @@ limitations under the License.
         <dependency>
             <groupId>net.bull.javamelody</groupId>
             <artifactId>javamelody-core</artifactId>
-            <version>1.39.0</version>
+            <version>1.74.0</version>
         </dependency>
     <!--
         These are the prototype dependencies. It is used by the overlay to refer back
